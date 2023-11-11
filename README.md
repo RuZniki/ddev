@@ -2,6 +2,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://ddev.com/logos/dark-ddev.svg">
   <img alt="DDEV logo with light and dark mode variants" src="https://ddev.com/logos/ddev.svg">
 </picture>
+
 ---
 
 [![CircleCI](https://circleci.com/gh/ddev/ddev.svg?style=shield)](https://circleci.com/gh/ddev/ddev) ![project is maintained](https://img.shields.io/maintenance/yes/2024.svg)
